@@ -1,4 +1,4 @@
-# AtividadeParametros-BacnEnd
+# AtividadeParametros-BackEnd
 O presente diretório contém todo o código necessário para resolução da Lista de Parametros.
 
 [Link para a descrição da Lista de Parametros](https://github.com/Serg-Ale/AtividadeParametros-BacnEnd/blob/main/Atividades%20de%20par%C3%A2metros.pdf)
