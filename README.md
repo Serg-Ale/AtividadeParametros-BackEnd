@@ -10,11 +10,25 @@ E se mesmo assim o fizer, tente ao menos entender oque realmente cada linha sign
 # Instruções
 Pode parecer meio óbvio, mas para conseguir executar vou deixar aqui um mini-tutorial:
 
+
 ### Passo 1
 Baixe os arquivos, ou clone meu repositório na sua máquina usando o comando ` git clone url`;
 
+### Hierarquia dos arquivos
+Quando fizer o download dos arquivos, você será apresentado a seguinte estrutura
+```
+Atividade de parametros
+Exemplos de aula
+```
+
+Sendo respectivamente:
+- Atividade de parametros
+  - A resolução em sí, contendo todos os aquivos criados (repare que não temos um arquivo por questão! Elas estão incluidas no código do arquivo abaiso mais próximo(por exemplo, os códigos das atividades 9 e 10 estão no arquivo `atv8.js`))
+-Exemplos da aula-20230911
+  - Contem todo o código disponibilizado pelo professor para exemplificar coisas simples 
+
 ### Passo 2
-Abra os arquivos no Visual Studio Code. OBS~Garanta que está na pasta certa, isso será importante quando usarmos o terminal!
+Abra os arquivos no Visual Studio Code. OBS:Garanta que está na pasta certa, isso será importante quando usarmos o terminal! Certifique-se sempre de que o terminal está na pasta "Atividade de parametros"
 
 ### Passo 3
 Abra o terminal no Visual Studio Code, e digite o comando ` npm install `
